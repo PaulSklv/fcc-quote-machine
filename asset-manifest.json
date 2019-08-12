@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/fcc-quote-machine/static/js/main.69673836.chunk.js",
+    "main.js.map": "/fcc-quote-machine/static/js/main.69673836.chunk.js.map",
+    "runtime~main.js": "/fcc-quote-machine/static/js/runtime~main.fd09e51c.js",
+    "runtime~main.js.map": "/fcc-quote-machine/static/js/runtime~main.fd09e51c.js.map",
+    "static/js/2.b1a618c0.chunk.js": "/fcc-quote-machine/static/js/2.b1a618c0.chunk.js",
+    "static/js/2.b1a618c0.chunk.js.map": "/fcc-quote-machine/static/js/2.b1a618c0.chunk.js.map",
+    "index.html": "/fcc-quote-machine/index.html",
+    "precache-manifest.2743805069cf5abf39ba524123ef3e3b.js": "/fcc-quote-machine/precache-manifest.2743805069cf5abf39ba524123ef3e3b.js",
+    "service-worker.js": "/fcc-quote-machine/service-worker.js"
+  }
+}
